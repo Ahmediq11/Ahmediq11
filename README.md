@@ -3,8 +3,8 @@
 </center>
 
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello World!, I'm Ahmed, AI lover 👋🏼:
+<br>👨🏼‍💻 I love code when i was kid <br>👨🏼‍🎓 I was strat learn coding at 2021 <br>⚙ I have experience alot in computer 
 
 
 # 💻 Tech Stack:
