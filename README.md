@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#e7008a" fill-opacity="0.5" d="M0,0L55.4,96L110.8,128L166.2,96L221.5,192L276.9,256L332.3,96L387.7,96L443.1,224L498.5,32L553.8,64L609.2,160L664.6,160L720,96L775.4,224L830.8,256L886.2,64L941.5,256L996.9,128L1052.3,160L1107.7,256L1163.1,32L1218.5,96L1273.8,128L1329.2,0L1384.6,0L1440,64L1440,0L1384.6,0L1329.2,0L1273.8,0L1218.5,0L1163.1,0L1107.7,0L1052.3,0L996.9,0L941.5,0L886.2,0L830.8,0L775.4,0L720,0L664.6,0L609.2,0L553.8,0L498.5,0L443.1,0L387.7,0L332.3,0L276.9,0L221.5,0L166.2,0L110.8,0L55.4,0L0,0Z" data-darkreader-inline-fill="" style="--darkreader-inline-fill: var(--darkreader-background-e7008a, #b9016d);"></path></svg>
 
 # Hello World!, I'm Tobi, a German Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
