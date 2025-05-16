@@ -1,4 +1,4 @@
-<img src="ChatGPT Image May 16, 2025, 05_59_19 PM.png" alt="GitHub Banner" width="80%" />
+<img src="ChatGPT Image May 16, 2025, 05_59_19 PM.png" alt="GitHub Banner" width="80%" center/>
 
 # Hello World!, I'm Tobi, a German Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
